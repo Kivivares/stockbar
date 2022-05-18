@@ -1,0 +1,14 @@
+{
+  "drinks": [
+    {
+      "name": "Drink 1",
+      "category": "bottle",
+      "minPrice": 5.00
+    },
+    {
+      "name": "Drink 2",
+      "category": "bottle",
+      "minPrice": 5.00
+    }
+  ]
+}
